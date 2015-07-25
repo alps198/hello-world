@@ -1,2 +1,3 @@
 # hello-world
-First project for better readability. 
+
+First project Hello World!
